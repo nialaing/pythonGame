@@ -1,4 +1,7 @@
 # Guessing-game-made-on-Python
+
+![](img/die.jpg)
+
 In this homework assignment, I'm creating an interactive Guessing game with Python. 
 Here's my guide: https://djangocentral.com/creating-a-guessing-game-in-python/
 
