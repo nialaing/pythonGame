@@ -20,9 +20,9 @@ while numberOfGuesses < 5:
     #This guess variable is where the guess numbers will be stored.
     guess = int(input())
     numberOfGuesses += 1
-    if guess < digit:
+    if guess < number:
         print('You guessed too low!')
-    if guess > digit:
+    if guess > number:
         print('Try again, your guess is too high!')
     if guess == number:
         break
