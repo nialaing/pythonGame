@@ -2,11 +2,16 @@
 #To generate a random number, I am importing a python module called random.
 import random
 
-#Next, I'm making a variable that will store the number between 1-10 that the computer will generate.
+#Now I'm setting my number variable and using the random module to generate a number between 1-10 and store in that variable.
 number = random.randint(1, 10)
 
-#Now I'm creating a userName variable and inside of it is a prompt for the user to give me their name.
-userName = input("Drop your nickname")
+#Now I'm using raw_input to ask the user their name.
+raw_input("Drop your nickname")
+
+#And I want to saw that raw input into a variable which will store it.
+userName = raw_input
+
+print("Whats up " + userName)
 
 #Now I'm creating this numberOfGuesses variable and assigning 0 to it.
 numberOfGuesses = 0
