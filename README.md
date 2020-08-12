@@ -1,4 +1,4 @@
-# Guessing-game-made-on-Python
+# A Little Guessing Game in Python
 
 ![](img/die.jpg)
 

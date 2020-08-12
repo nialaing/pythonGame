@@ -5,13 +5,12 @@ import random
 #Now I'm setting my number variable and using the random module to generate a number between 1-10 and store in that variable.
 number = random.randint(1, 10)
 
+
 #Now I'm using raw_input to ask the user their name.
-raw_input("Drop your nickname")
+userName = raw_input("Drop your nickname")
 
-#And I want to saw that raw input into a variable which will store it.
-userName = raw_input
 
-print("Whats up " + userName)
+print("Whats up" + userName)
 
 #Now I'm creating this numberOfGuesses variable and assigning 0 to it.
 numberOfGuesses = 0
