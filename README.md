@@ -1,6 +1,6 @@
 # A Little Guessing Game in Python
 
-![](img/die.jpg)
+![Python Game Demo](demo/pythonGame.gif)
 
 In this homework assignment, I'm creating an interactive Guessing game with Python. 
 Here's my guide: https://djangocentral.com/creating-a-guessing-game-in-python/
